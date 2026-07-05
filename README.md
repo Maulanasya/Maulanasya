@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maulanasya&label=Profile%20views&color=0e75b6&style=flat" alt="maulanasya" /> </p>
 
-- 🔭 I’m currently working on **Rentiera**
-
 - 🌱 I’m currently learning **Next.js, React, Tailwind CSS, and Kotlin for Android Development**
 
 - 💬 Ask me about **UI/UX design and basic Web Development**
