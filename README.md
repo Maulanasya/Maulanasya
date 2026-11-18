@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Maulana Yusuf Syawaludin and I'm a Develpoer, from Majalengka</h2>
+<h2 data-importer="text" align="left">Hii 👋! My name is Maulana Yusuf Syawaludin and I'm a Develpoer, from Majalengka</h2>
 
 ###
 
