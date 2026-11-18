@@ -1,3 +1,7 @@
+# 💫 Hi 👋, I'm Maulana Yusuf Syawaludin
+
+Email Me 👉 ✉️ **myusufsyawaludin05.com** For Collaboration/Project or Anything Else. 😊😊
+
 # 💫 About Me:
 🔭 I’m currently working on **Penabulu Foundation** <br>👯 I’m looking to collaborate on **Fun beginner projects in Web Dev or UI/UX**<br>🤝 I’m looking for help with **Everything! Especially Technology**<br>🌱 I’m currently learning **Programming and Japanese Language**<br>💬 Ask me about **UI/UX basics, PC hardware, or my learning journey**<br>⚡ Fun fact: **Passionate about both tech and automotive—always curious about how things work under the hood, whether it’s code or engines 🏍️💻**
 
