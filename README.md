@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Maulana Yusuf Syawaludin
 
-Email Me 👉 ✉️ **myusufsyawaludin05.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **maulanayusufsywldn.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 I’m currently working on **Penabulu Foundation**
 - 👯 I’m looking to collaborate on **Fun beginner projects in Web Dev or UI/UX**
